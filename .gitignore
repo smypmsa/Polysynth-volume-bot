@@ -1,0 +1,4 @@
+files/keys/*
+!files/keys/.gitkeep
+config.json
+.env

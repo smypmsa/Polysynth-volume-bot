@@ -1,0 +1,4 @@
+web3==5.28.0
+polysynth~=0.6.6
+requests~=2.27.1
+pandas~=1.4.1
