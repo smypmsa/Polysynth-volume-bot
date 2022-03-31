@@ -1,5 +1,7 @@
 # Run the fortune through your wallets (protocol on Polygon as example)
 
+The script helps to run USDC through a lot of wallets (open-close position in a few iterations and send tokens to the next wallet). It is created to abuse Polysynth (Polygon), however it could be updated and used for other protocols (DEXes).
+
 First steps:
 
 1. Clone repo
