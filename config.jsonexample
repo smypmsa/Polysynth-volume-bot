@@ -1,0 +1,11 @@
+{
+  "HTTP_PROVIDER": "https://polygon-mainnet.infura.io/v3/",
+  "FOLDER_KEYS": "files/keys/",
+  "PROCESSED_IDS": "files/processed_ids.csv",
+  "MARKET": "ETH-USDC",
+  "ADSPOWER_URL": "http://local.adspower.com",
+  "ADSPOWER_PORT": "50325",
+  "PAGE_SIZE": 1000,
+  "SAMPLE_ADDRESS": "",
+  "SAMPLE_PK": ""
+}
